@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+org.maoxiaoxu.auto.starter.threadpool.ThreadPoolAutoStarter
